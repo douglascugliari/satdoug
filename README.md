@@ -1,4 +1,4 @@
-### Olá, Soug Douglas! 👋
+### Olá, Meu nome é Douglas! 👋
 
 💻 Quality assurance - [@Softplan](https://www.softplan.com.br/) <br>
 🏡 Florianópolis - SC
