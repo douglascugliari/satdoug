@@ -20,8 +20,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satdoug&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
-<br/>
-<br/>
+<p align="center">
+  <img src="qa.gif" />
+</p>
 
 ![](qa.gif)
 
