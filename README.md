@@ -1,9 +1,5 @@
 ### Olá, Meu nome é Douglas! 👋
 
-<p align="center">
-  <img src="qa.gif" />
-</p>
-
 💻 Quality assurance - [@Softplan](https://www.softplan.com.br/) <br>
 🏡 Florianópolis - SC
 <br/>
@@ -25,5 +21,8 @@
 </details>
 <br/>
 
+<p align="center">
+  <img src="qa.gif" />
+</p>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/anajuliabit)](https://github.com/santosddouglas)
