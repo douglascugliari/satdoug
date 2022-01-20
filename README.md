@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Douglas! 👋
 
-💻 Quality assurance - [@Softplan](https://www.softplan.com.br/) <br>
+💻 Quality assurance Specialist - [@GFT](https://www.gft.com/br/pt) <br>
 🏡 Florianópolis - SC
 <br/>
 
