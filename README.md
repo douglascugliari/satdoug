@@ -21,8 +21,8 @@ Sou especialista em **Quality Assurance**, com foco em qualidade contínua, auto
 <details>
   <summary><strong>📈 GitHub Stats</strong></summary>
   <br />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=satdoug&show_icons=true&title_color=1f2937&icon_color=2563eb&text_color=374151&bg_color=ffffff" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=satdoug&show_icons=true&theme=default"
     alt="GitHub Stats"
   />
 </details>
@@ -30,11 +30,12 @@ Sou especialista em **Quality Assurance**, com foco em qualidade contínua, auto
 <details>
   <summary><strong>💻 Linguagens mais utilizadas</strong></summary>
   <br />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satdoug&layout=compact&bg_color=ffffff&text_color=374151" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satdoug&layout=compact&theme=default"
     alt="Top Languages"
   />
 </details>
+
 
 ---
 
