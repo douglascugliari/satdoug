@@ -22,7 +22,7 @@ Sou especialista em **Quality Assurance**, com foco em qualidade contínua, auto
   <summary><strong>📈 GitHub Stats</strong></summary>
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=satdoug&show_icons=true&theme=default"
+    src="https://github-readme-stats.vercel.app/api?username=douglascugliari&show_icons=true&theme=default"
     alt="GitHub Stats"
   />
 </details>
@@ -31,7 +31,7 @@ Sou especialista em **Quality Assurance**, com foco em qualidade contínua, auto
   <summary><strong>💻 Linguagens mais utilizadas</strong></summary>
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satdoug&layout=compact&theme=default"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglascugliari&layout=compact&theme=default"
     alt="Top Languages"
   />
 </details>
