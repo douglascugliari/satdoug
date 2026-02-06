@@ -1,28 +1,51 @@
-### Olá, Meu nome é Douglas! 👋
+# Douglas Santos 👋
 
-💻 Quality assurance Specialist - [@GFT](https://www.gft.com/br/pt) <br>
-🏡 Florianópolis - SC
-<br/>
+**Quality Assurance Specialist**  
+📍 Florianópolis, SC — Brazil  
+🏢 GFT Technologies  
 
-### Contatos
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santosddouglas/)](https://www.linkedin.com/in/santosddouglas/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sant0s_d0ug/)](https://www.instagram.com/sant0s_d0ug/)
-[![Hotmail Badge](https://img.shields.io/badge/-hotmail-blue?style=flat-square&logo=hotmail&logoColor=white&link=mailto:satdoug_@hotmail.com)](mailto:satdoug_@hotmail.com)
-<br/>
+Sou especialista em **Quality Assurance**, com foco em qualidade contínua, automação de testes e garantia de confiabilidade em sistemas modernos. Atuo de forma colaborativa com times de desenvolvimento, produto e negócio, sempre orientado a **qualidade, eficiência e valor entregue**.
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosddouglas/)
+[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sant0s_d0ug/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:satdoug_@hotmail.com)
+
+---
+
+## 📊 GitHub Insights
 
 <details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=satdoug&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <summary><strong>📈 GitHub Stats</strong></summary>
+  <br />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=satdoug&show_icons=true&title_color=1f2937&icon_color=2563eb&text_color=374151&bg_color=ffffff" 
+    alt="GitHub Stats"
+  />
 </details>
 
 <details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satdoug&layout=compact&bg_color=ffffff&text_color=333333">
+  <summary><strong>💻 Linguagens mais utilizadas</strong></summary>
+  <br />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satdoug&layout=compact&bg_color=ffffff&text_color=374151" 
+    alt="Top Languages"
+  />
 </details>
-<br/>
+
+---
+
+## 🧪 Quality First
 
 <p align="center">
-  <img src="qa.gif" />
+  <img src="qa.gif" alt="Quality Assurance" width="300"/>
 </p>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/anajuliabit)](https://github.com/santosddouglas)
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=satdoug" alt="Visitors"/>
+</p>
